@@ -16,6 +16,7 @@ dependencies:
   - sshpass
   galaxy:
     collections:
+    - name: community.general
     - name: cisco.aci
     - name: cisco.intersight
     - name: cisco.ios
@@ -24,5 +25,3 @@ dependencies:
     - name: cisco.mso
     - name: cisco.nxos
     - name: cisco.ucs
-    - name: community.crypto
-    - name: community.postgresql
